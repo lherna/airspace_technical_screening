@@ -1,8 +1,3 @@
-# Airspace Technologies Technical Screening - Data Scientist
+# Strategic Logistics Technical Screening
 
-Hello John/Ksenia,
-
-I would first like to say thank you for considering me for this position. In this repository you can find my jupyter notebook file - airspace_technical_luishndez.ipynb - that shows the way I usually handle data and perform an analysis. Using pandas dataframes as the main form of structuring the data, I first visualize the data to see if there are any relationships among the factor variables. In this case I was caught off guard and split the dataset into two for their later application of two machine learning models (linear and logistic regression). In any case, I hope that this gives you a good general view of how I tackle a problem like this. Let me know if you have any more questions or if you would like me to clarify something else, thanks.
-
-Best, 
-Luis A. Hernandez
+This is a technical screening sent out by a strategic logistics operation company for a data scientist position. Contained in the jupyter notebook airspace_technical_luishndez.ipynb, I use pandas dataframes as the main form of structuring the data. Visualizing the data first to see if there are any relationships among the factor variables and potential response variables for a linear regression, I not only apply this model, but also a logistic regression to the binary factor column available. Serving as a general overview to see my method of cleaning data and tackling a problem, this project displays limited end results due to the size of the dataset.
